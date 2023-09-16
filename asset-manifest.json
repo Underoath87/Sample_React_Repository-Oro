@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sample_React_Repository-Oro/static/css/main.7eebc124.css",
+    "main.js": "/Sample_React_Repository-Oro/static/js/main.879489b7.js",
+    "static/js/787.eed000a1.chunk.js": "/Sample_React_Repository-Oro/static/js/787.eed000a1.chunk.js",
+    "static/media/pic2.jpg": "/Sample_React_Repository-Oro/static/media/pic2.d65e848c57cc7b419001.jpg",
+    "static/media/pic5.jpg": "/Sample_React_Repository-Oro/static/media/pic5.63badbd9098adb53ab00.jpg",
+    "static/media/pic6.jpg": "/Sample_React_Repository-Oro/static/media/pic6.667f659109e13c6db59d.jpg",
+    "static/media/banner1.jpg": "/Sample_React_Repository-Oro/static/media/banner1.9012dae2bdae65a7bdee.jpg",
+    "static/media/pic3.jpg": "/Sample_React_Repository-Oro/static/media/pic3.3062e1b81ec2436f2d42.jpg",
+    "index.html": "/Sample_React_Repository-Oro/index.html",
+    "main.7eebc124.css.map": "/Sample_React_Repository-Oro/static/css/main.7eebc124.css.map",
+    "main.879489b7.js.map": "/Sample_React_Repository-Oro/static/js/main.879489b7.js.map",
+    "787.eed000a1.chunk.js.map": "/Sample_React_Repository-Oro/static/js/787.eed000a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eebc124.css",
+    "static/js/main.879489b7.js"
+  ]
+}
